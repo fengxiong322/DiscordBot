@@ -1,0 +1,5 @@
+{ 
+  "token"  : "YOUR_BOT_TOKEN_HERE",
+  "prefix" : "+",
+  "owner" : "YOUR_ID_HERE"
+}
