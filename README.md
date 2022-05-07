@@ -1,8 +1,8 @@
-# randomDiscordBot
+# DiscordBot
 
-Just a random Discord Bot I made in js. Its a collection of multiple mini projects over the course of a month.
+A Discord Bot I made using Node.js. Its a collection of multiple mini projects over the course of a month.
 
-## installation
+## Installation
 Make sure you have npm installed.
 Download the file and unzip.
 Configure your node.js enviroment.
